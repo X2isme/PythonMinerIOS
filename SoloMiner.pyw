@@ -1,6 +1,6 @@
-address = 'bc1qwp44lvxgrhh42de507kezjspcyh8cvw6tvuykp'
-pool = "solo.ckpool.org"
-port = 3333
+address = 'bc1qydgtdvg6f7xqh8vgsgu0xru6c8ufl2mcmg8722'
+pool = "stratum.solomining.io"
+port = 7777
 import requests,socket,threading,json,hashlib,binascii,random,time,traceback
 import context as ctx
 from signal import SIGINT, signal
