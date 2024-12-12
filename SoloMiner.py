@@ -2,8 +2,8 @@
 # Mining Address **Change Me**
 address = 'bc1qydgtdvg6f7xqh8vgsgu0xru6c8ufl2mcmg8722'
 # Mining Pool **Consider Before Change**
-pool = "solo.ckpool.org"
-port = 3333
+pool = "stratum.solomining.io"
+port = 7777
 
 import requests
 import socket
